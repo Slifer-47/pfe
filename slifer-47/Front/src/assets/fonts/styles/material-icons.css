@@ -1,0 +1,33 @@
+.material-icon-img {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: middle;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.icon-person {
+  background-image: url('../fonts/material-icons/person.png');
+}
+
+.icon-lock {
+  background-image: url('../fonts/material-icons/lock.png');
+}
+
+.icon-visibility {
+  background-image: url('../fonts/material-icons/visibility.png');
+}
+
+.icon-visibility-off {
+  background-image: url('../fonts/material-icons/visibility_off.png');
+}
+
+.icon-error-outline {
+  background-image: url('../fonts/material-icons/error_outline.png');
+}
+
+.icon-arrow-forward {
+  background-image: url('../fonts/material-icons/arrow_forward.png');
+}
